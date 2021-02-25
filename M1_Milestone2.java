@@ -1,4 +1,8 @@
-public class Milestone2 {
+/** Back-end Java
+*** M1 - Milestone 2
+*** Roger Torrent */
+
+public class M1_Milestone2 {
 	public static void main(String args[]) {
 		double pi_d = 3.1416;
 		

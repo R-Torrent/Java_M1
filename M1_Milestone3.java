@@ -1,4 +1,8 @@
-public class Milestone3 {
+/** Back-end Java
+*** M1 - Milestone 3
+*** Roger Torrent */
+
+public class M1_Milestone3 {
 	public static void main(String args[]) {
 		int[] array = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10};
 		int l = array.length;		

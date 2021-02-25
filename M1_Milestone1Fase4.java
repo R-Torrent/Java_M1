@@ -1,4 +1,8 @@
-public class Milestone1Fase4 {
+/** Back-end Java
+*** M1 - Milestone 1 - Fase 4
+*** Roger Torrent */
+
+public class M1_Milestone1Fase4 {
 	static boolean traspas(short any) {
 			return (any % 4 == 0 && any % 100 != 0) || any % 400 == 0;
 		};
